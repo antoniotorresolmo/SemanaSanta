@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ListaDesplegable</string>
+
+    <string-array name="colores">
+        <item>Rojo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+    </string-array>
+
+    <string-array name="hermandades">
+        <item>El Cautivo del Poligono</item>
+        <item>El Beso de Judas</item>
+        <item>Santa Genoveva</item>
+        <item>Santa Marta</item>
+    </string-array>
+
+</resources>
